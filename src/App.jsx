@@ -1,7 +1,9 @@
+import Home from "./pages/Home";
+
 function App() {
   return (
     <>
-      <h1 className="text-center bg-red-300">Redux</h1>
+      <Home />
     </>
   );
 }
